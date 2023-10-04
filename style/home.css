@@ -1,0 +1,67 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0%; padding: 0%;
+}
+.img{height: 550px; width: 500px; padding-top: 5px;}
+.colour{color: chocolate;}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px,200px;
+}
+.nav-title{
+    padding-top: 70px; font-size: 50px;padding-left: 100px;
+}
+nav ul{
+    display: flex;
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    margin: 50px;
+}
+.banner{
+    margin: 500px,300px;
+    display: flex;
+    align-items: flex-start;
+    padding-left: 75px;
+    padding-top: 10px;
+}
+.banner-title{
+    font-weight: 700px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.banner-a{
+    font-weight: 700px;
+    font-size: 70px;}
+.banner-b{color: darksalmon;
+    font-size: 20px;}
+    .btn-colour{color:white;height: 50px;width: 70px;
+        font-size: 20px;font-style: normal;border: 0px;padding: 0%; background-color:brown;}
+        .icon{ color: white; background-color: brown; 
+            text-align: center;
+        }
+       
+        .exp{
+            padding-top: 25px;
+        }
+        .experience{margin-right: 25px;
+            color: rgb(209, 85, 44);font-size: 20px;padding-top: 35px; padding-left: 35px;padding-right: 100px; padding-bottom: 35px;
+            background-color: burlywood ; border-radius: 5px;}
+            main{
+                 padding-top:15px;
+                margin:0, auto;
+                padding-left: 120px;}
+           .about{
+            padding-top: 25px;
+            border-radius: 10px;
+            text-align: center;
+            padding-top: 10px;padding-left: 150px;padding-right: 150px;padding-bottom: 30px;
+        background-color: antiquewhite; margin-right:100px;margin-bottom: 100px;} 
+        .about-info{margin-top: 5px;}
+        .about-title{font-size: 20px;word-spacing: 120px;
+                }
+     .about-description{font-size:20px;word-spacing:25px; margin-left: 20px;}
+   
+
